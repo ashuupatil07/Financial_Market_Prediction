@@ -23,7 +23,7 @@ Collaborate with other users or teams within the system.
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/rjghongade/Folder-Locker.git
+   git clone https://github.com/ashuupatil07/Financial_Market_Prediction.git
    
 ### Operational Feasibility -
 
