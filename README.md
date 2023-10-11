@@ -21,13 +21,16 @@ Collaborate with other users or teams within the system.
 2. Contingency Planning
 3. User Management
 
+1. Clone the repository:
+   ```shell
+   git clone https://github.com/rjghongade/Folder-Locker.git
+   
 ### Operational Feasibility -
 
 1. Resource Availability
 2. Data Accessibility
 3. Data Management
 4 .Technical Infrastructure
-
 
 [Dawanlode](https://github.com/ashuupatil07/Financial_Market_Prediction)
 
@@ -44,7 +47,7 @@ Output Device           :     Screens of Monitor or a Laptop
 
 ![ Screenshot ](Test_Model.jpeg)
 
-https://github.com/rjghongade/RAM_AntiVirus/assets/105046011/613324fd-8d69-475e-b1e3-97c0704ceab4
+
 
 
 
