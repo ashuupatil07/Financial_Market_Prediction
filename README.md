@@ -29,7 +29,7 @@ Collaborate with other users or teams within the system.
 4 .Technical Infrastructure
 
 
-[Dawanlode](https://github.com/ashuupatil07/Financial_Market_Prediction/edit)
+[Dawanlode](https://github.com/ashuupatil07/Financial_Market_Prediction)
 
 ![ Screenshot ](Web_Run_Days.jpeg)
 
