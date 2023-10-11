@@ -47,7 +47,17 @@ Output Device           :     Screens of Monitor or a Laptop
 
 ![ Screenshot ](Test_Model.jpeg)
 
+### Acknowledgments
+Yahoo Financials API
 
+Python
+
+scikit-learn
+
+![ Screenshot ](Predict_Graph.jpeg)
+
+### Financial_Market_Prediction
+This stock price prediction project is the result of collaborative efforts by a group of enthusiasts and learners. Our team, consisting of Rajendra Ghongade, Madhuri Phalke, and Ashwini Patil, embarked on this journey to explore the fascinating intersection of finance and machine learning. Together, we've created a Python script that leverages the power of linear regression to forecast stock prices. With data fetched from Yahoo Finance, our project offers a hands-on educational experience in stock market prediction, providing both a customizable and visually engaging tool. We're excited to share our work and encourage everyone to dive into the world of financial prediction. This project is a testament to our shared dedication and passion for learning and creating together.
 
 
 
